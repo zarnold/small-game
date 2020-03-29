@@ -1,0 +1,10 @@
+{
+  "name": "immeuble-hante",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "eliott",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "node index.js"
+  }
+}
